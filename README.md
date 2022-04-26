@@ -1,0 +1,2 @@
+# promaie
+AI workshop 
